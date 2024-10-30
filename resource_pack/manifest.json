@@ -1,0 +1,18 @@
+{
+  "format_version": "1.20",
+  "header": {
+    "description": "インフレしよう！",
+    "name": "インフレクラフト",
+    "uuid": "1f36c226-98b1-4d7e-8a5e-3a5e0e8f62f3",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "インフレリソース",
+      "type": "data",
+      "uuid": "9f53f88e-2f39-4a1b-85d7-d4e6a4606a32",
+      "version": [1, 0, 0]
+    }
+  ]
+}
