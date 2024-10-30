@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:item": {
+    "description": {
+      "identifier": "inflation:iron_spearblade",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "inflation:iron_spearblade",
+      "minecraft:damage": 6,
+      "minecraft:enchantable": {
+        "value": 12,
+        "slot": "sword"
+      },
+      "minecraft:durability": {
+        "max_durability": 250
+      },
+    }
+  }
+}
