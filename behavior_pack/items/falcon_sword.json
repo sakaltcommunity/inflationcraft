@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:item": {
+    "description": {
+      "identifier": "inflation:falcon_sword",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "falcon_sword",
+      "minecraft:damage": 12,
+      "minecraft:enchantable": {
+        "value": 7,
+        "slot": "sword"
+      },
+      "minecraft:durability": {
+        "max_durability": 1561
+      },
+    }
+  }
+}
