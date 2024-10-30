@@ -1,0 +1,12 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:item": {
+    "description": {
+      "identifier": "inflation:rediron_ingot",
+      "category": "item"
+    },
+    "components": {
+      "minecraft:icon": "inflation:rediron_ingot"
+    }
+  }
+}
