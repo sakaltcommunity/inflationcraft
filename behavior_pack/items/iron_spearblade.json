@@ -7,7 +7,8 @@
     },
     "components": {
       "minecraft:icon": "inflation:iron_spearblade",
-      "minecraft:damage": 6,
+      "minecraft:damage": 8,
+      "minecraft:cooldown": 16,
       "minecraft:enchantable": {
         "value": 12,
         "slot": "sword"
