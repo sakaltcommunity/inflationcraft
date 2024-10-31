@@ -1,0 +1,26 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "inflation:gronium"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "GGG",
+      "III",
+      "GGG"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:glowstone_dust"
+     },
+      "I": {
+        "item": "minecraft:iron_ingot"
+     }
+    },
+    "result": {
+      "item": "inflation:gronium",
+      "count": 1
+    }
+  }
+}
