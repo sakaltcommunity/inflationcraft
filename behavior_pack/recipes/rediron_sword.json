@@ -1,0 +1,26 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "inflation:rediron_sword"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " R ",
+      " R ",
+      " S "
+    ],
+    "key": {
+      "R": {
+        "item": "inflation:rediron_ingot"
+     },
+      "S": {
+        "item": "minecraft:stick"
+     }
+    },
+    "result": {
+      "item": "inflation:rediron_sword",
+      "count": 1
+    }
+  }
+}
