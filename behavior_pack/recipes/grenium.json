@@ -1,0 +1,32 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "inflation:grenium"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "GBG",
+      "IEI",
+      "GBG"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:glowstone_dust"
+     },
+      "B": {
+        "item": "minecraft:blaze_rod"
+     },
+      "E": {
+        "item": "minecraft:emerald"
+      },
+      "I": {
+        "item": "minecraft:iron_ingot"
+     }
+    },
+    "result": {
+      "item": "inflation:grenium",
+      "count": 1
+    }
+  }
+}
