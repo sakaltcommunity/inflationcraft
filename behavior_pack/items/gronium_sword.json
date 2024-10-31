@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:item": {
+    "description": {
+      "identifier": "inflation:gronium_sword",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "inflation:gronium_sword",
+      "minecraft:damage": 12,
+      "minecraft:enchantable": {
+        "value": 10,
+        "slot": "sword"
+      },
+      "minecraft:durability": {
+        "max_durability": 1677
+      },
+    }
+  }
+}
