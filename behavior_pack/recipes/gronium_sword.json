@@ -1,0 +1,26 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "inflation:gronium_sword"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " G ",
+      " G ",
+      " S "
+    ],
+    "key": {
+      "G": {
+        "item": "inflation:gronium"
+     },
+      "S": {
+        "item": "minecraft:stick"
+     }
+    },
+    "result": {
+      "item": "inflation:gronium_sword",
+      "count": 1
+    }
+  }
+}
