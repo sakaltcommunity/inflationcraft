@@ -1,0 +1,26 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "inflation:yanyuedao"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " RR",
+      " R ",
+      "SR "
+    ],
+    "key": {
+      "R": {
+        "item": "inflation:rediron_ingot"
+     },
+      "S": {
+        "item": "inflation:rediron_stick"
+     }
+    },
+    "result": {
+      "item": "inflation:yanyuedao",
+      "count": 1
+    }
+  }
+}
