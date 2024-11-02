@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:item": {
+    "description": {
+      "identifier": "inflation:yanyuedao",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "falcon_sword",
+      "minecraft:damage": 10,
+      "minecraft:enchantable": {
+        "value": 15,
+        "slot": "sword"
+      },
+      "minecraft:durability": {
+        "max_durability": 2465
+      },
+    }
+  }
+}
