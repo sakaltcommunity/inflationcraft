@@ -1,0 +1,36 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:geometry": {
+    "description": {
+      "identifier": "inflation:redsquare",
+      "texture_width": 16,
+      "texture_height": 16
+    },
+    "bones": [
+      {
+        "name": "cube",
+        "pivot": [0, 0, 0],
+        "children": [
+          {
+            "name": "cube",
+            "pivot": [0, 0, 0],
+            "scale": [1, 1, 1],
+            "cube": [
+              {
+                "origin": [-8, 0, -8],
+                "size": [16, 16, 16],
+                "uv": [0, 0]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "inflation:redsquare",
+      "textures": [{ "texture": "inflation:block/redsquare_texture" }]
+    }
+  }
+}
