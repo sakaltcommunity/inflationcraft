@@ -2,6 +2,8 @@ name: Release
 
 on:
   push:
+    branches:
+      - main # mainブランチに変更  
     tags:
       - 'v*'  # vで始まるタグがプッシュされたときにトリガー
 
