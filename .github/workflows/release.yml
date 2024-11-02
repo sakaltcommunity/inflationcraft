@@ -26,4 +26,4 @@ jobs:
           target_commitish: 'main'  # リリースを作成する対象ブランチを指定
           files: release.zip
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SECRET_TOKEN }}
