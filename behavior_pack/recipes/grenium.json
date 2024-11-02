@@ -1,5 +1,5 @@
 {
-  "format_version": "1.20.1",
+  "format_version": "1.21.31",
   "minecraft:recipe_shaped": {
     "description": {
       "identifier": "inflation:grenium"
