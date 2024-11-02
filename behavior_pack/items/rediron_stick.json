@@ -1,0 +1,23 @@
+{
+  "format_version": "1.20.1",
+  "minecraft:item": {
+    "description": {
+      "identifier": "inflation:rediron_stick",
+      "category": "Combat",
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:attack_damage": 1,
+      "minecraft:durability": {
+        "max_durability": 3750
+      },
+      "minecraft:icon": "textures/items/rediron_stick",
+      "minecraft:on_hit": {
+        "run_command": {
+          "command": "/function inflation:rediron_stick",
+          "cooldown": 4
+        }
+      }
+    }
+  }
+}
